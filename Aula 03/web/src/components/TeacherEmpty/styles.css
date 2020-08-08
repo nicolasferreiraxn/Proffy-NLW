@@ -1,0 +1,18 @@
+
+
+@media (min-width: 700px){
+  .teacher-empty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20rem;
+  }
+  
+  .teacher-empty p {
+    max-width: 30rem;
+    font-size: 1.8rem;
+    line-height: 2.6rem;
+    color: var(--color-text-complement);
+    margin-top: 12.4rem;
+  }
+}
